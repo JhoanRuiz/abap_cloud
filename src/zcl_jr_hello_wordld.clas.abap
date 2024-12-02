@@ -19,7 +19,7 @@ CLASS ZCL_JR_HELLO_WORDLD IMPLEMENTATION.
 
 "########## Developing Your First ABAP Program:
 
-*    out->write( 'Hola Mundo' ).
+    out->write( 'Hola Mundo' ).
 
 
 "########## Working With Basic Data Objects and Data Types:
