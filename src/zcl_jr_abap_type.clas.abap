@@ -22,6 +22,7 @@ CLASS zcl_jr_abap_type IMPLEMENTATION.
 **********************************************************************
 
     " comment/uncomment the following declarations and check the output
+    " Declaración de los diferentes tipos de datos en ABAP
     DATA variable TYPE string.
 *    DATA variable TYPE i.
 *    DATA variable TYPE d.
